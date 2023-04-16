@@ -5,8 +5,10 @@
 }
 .container{
     background: url(/nieuw.jpg);
+    width: 1300px;
     height: 100vh;
     background-size: 100% 100%;
+    margin-left: 150px;
 }
 .container .navbar{
     width: 100%;
